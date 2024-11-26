@@ -82,8 +82,12 @@ Once everything is set up, follow these steps to use the tracker:
 4. **Step 4:** To stop the tracker at any time, press **Ctrl + C** in the terminal.
 
 ## Screenshot of Stock Price Tracker in Action
+<div style="display: flex; justify-content: center; gap: 50px;">
+    <img src="1.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+    <img src="1.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+</div>
 
-![Stock Price Tracker in Action](path-to-your-screenshot-1.jpg)
+
 
 ## Troubleshooting
 
