@@ -84,7 +84,15 @@ Once everything is set up, follow these steps to use the tracker:
 ## Screenshot of Stock Price Tracker in Action
 <div style="display: flex; justify-content: center; gap: 50px;">
     <img src="1.png" alt="Stock Price Tracker in Action" width="500" height="400" />
-    <img src="1.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+    <img src="2.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+</div>
+<div style="display: flex; justify-content: center; gap: 50px;">
+    <img src="3.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+    <img src="4.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+</div>
+<div style="display: flex; justify-content: center; gap: 50px;">
+    <img src="5.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+    <img src="6.png" alt="Stock Price Tracker in Action" width="500" height="400" />
 </div>
 
 
